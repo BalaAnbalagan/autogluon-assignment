@@ -1,0 +1,50 @@
+# Talk tracks (personal notes, not for repo)
+*talk_track.md
+*talk-track.md
+talk_track/
+talk-track/
+
+# AutoGluon outputs
+ag-*/
+AutogluonModels/
+*.zip
+leaderboard.csv
+feature_importance.csv
+submission.csv
+
+# Data files
+data/
+*.csv
+*.parquet
+*.feather
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
