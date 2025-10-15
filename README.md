@@ -43,12 +43,10 @@ autogluon-assignment/
 1. Go to [Google Colab](https://colab.research.google.com/)
 2. Click **File** → **Open notebook**
 3. Select the **GitHub** tab
-4. Enter: `https://github.com/YOUR_USERNAME/autogluon-assignment`
+4. Enter: `https://github.com/BalaAnbalagan/autogluon-assignment`
 5. Choose the notebook you want to run
 
-**Or use direct links:**
-- Replace `YOUR_USERNAME` with your GitHub username
-- Format: `https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/part1-kaggle/ieee-fraud-detection.ipynb`
+**Or use direct links with the badges below** - just click any "Open in Colab" badge to launch that notebook directly!
 
 ### Step 2: Set Your Target Label
 
@@ -88,7 +86,7 @@ Click the **folder icon** (📁) in the left sidebar, locate the files, and clic
 ### Part 1: Kaggle Competitions
 
 #### ieee-fraud-detection.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/part1-kaggle/ieee-fraud-detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part1-kaggle/ieee-fraud-detection.ipynb)
 
 - **Task**: Binary classification
 - **Dataset**: IEEE-CIS Fraud Detection (from Kaggle)
@@ -97,7 +95,7 @@ Click the **folder icon** (📁) in the left sidebar, locate the files, and clic
 - **Features**: Transaction and identity data
 
 #### california-housing.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/part1-kaggle/california-housing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part1-kaggle/california-housing.ipynb)
 
 - **Task**: Regression
 - **Dataset**: California Housing (from sklearn)
@@ -108,19 +106,19 @@ Click the **folder icon** (📁) in the left sidebar, locate the files, and clic
 ### Part 2: Demo Notebooks
 
 #### tabular-quick-start.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/part2-demos/tabular-quick-start.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part2-demos/tabular-quick-start.ipynb)
 
 - Minimal baseline with Titanic dataset
 - Quick `load → fit → leaderboard` workflow
 
 #### tabular-multimodal.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/part2-demos/tabular-multimodal.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part2-demos/tabular-multimodal.ipynb)
 
 - Combines tabular and text features
 - Demonstrates multimodal learning capabilities
 
 #### tabular-feature-engineering.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/part2-demos/tabular-feature-engineering.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part2-demos/tabular-feature-engineering.ipynb)
 
 - Compares performance with/without AutoGluon's automatic feature engineering
 - Shows before/after model comparison
@@ -128,33 +126,33 @@ Click the **folder icon** (📁) in the left sidebar, locate the files, and clic
 ### Extra Credit
 
 #### Tabular
-- **tabular-multilabel.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/tabular-multilabel.ipynb) - Multi-label classification
-- **tabular-gpu.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/tabular-gpu.ipynb) - GPU acceleration
+- **tabular-multilabel.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/tabular-multilabel.ipynb) - Multi-label classification
+- **tabular-gpu.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/tabular-gpu.ipynb) - GPU acceleration
 
 #### Text
-- **beginner_text.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/beginner_text.ipynb) - Sentiment analysis
-- **multilingual_text.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/multilingual_text.ipynb) - Multilingual models
-- **ner.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/ner.ipynb) - Named Entity Recognition
-- **text_semantic_search.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/text_semantic_search.ipynb) - Semantic search
+- **beginner_text.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/beginner_text.ipynb) - Sentiment analysis
+- **multilingual_text.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/multilingual_text.ipynb) - Multilingual models
+- **ner.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/ner.ipynb) - Named Entity Recognition
+- **text_semantic_search.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/text_semantic_search.ipynb) - Semantic search
 
 #### Image
-- **beginner_image_cls.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/beginner_image_cls.ipynb) - Image classification
-- **beginner_semantic_seg.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/beginner_semantic_seg.ipynb) - Semantic segmentation
-- **clip_zeroshot.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/clip_zeroshot.ipynb) - Zero-shot classification
-- **quick_start_coco.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/quick_start_coco.ipynb) - Object detection (COCO)
+- **beginner_image_cls.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/beginner_image_cls.ipynb) - Image classification
+- **beginner_semantic_seg.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/beginner_semantic_seg.ipynb) - Semantic segmentation
+- **clip_zeroshot.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/clip_zeroshot.ipynb) - Zero-shot classification
+- **quick_start_coco.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/quick_start_coco.ipynb) - Object detection (COCO)
 
 #### Multimodal
-- **beginner_multimodal.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/beginner_multimodal.ipynb) - Multimodal quick start
-- **document_classification.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/document_classification.ipynb) - Document classification
-- **pdf_classification.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/pdf_classification.ipynb) - PDF classification
-- **image_text_matching.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/image_text_matching.ipynb) - Image-text matching
-- **zero_shot_img_txt_matching.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/zero_shot_img_txt_matching.ipynb) - Zero-shot image-text matching
-- **multimodal_text_tabular.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/multimodal_text_tabular.ipynb) - Text + tabular fusion
-- **multimodal_ner.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/multimodal_ner.ipynb) - Multimodal NER
+- **beginner_multimodal.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/beginner_multimodal.ipynb) - Multimodal quick start
+- **document_classification.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/document_classification.ipynb) - Document classification
+- **pdf_classification.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/pdf_classification.ipynb) - PDF classification
+- **image_text_matching.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/image_text_matching.ipynb) - Image-text matching
+- **zero_shot_img_txt_matching.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/zero_shot_img_txt_matching.ipynb) - Zero-shot image-text matching
+- **multimodal_text_tabular.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/multimodal_text_tabular.ipynb) - Text + tabular fusion
+- **multimodal_ner.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/multimodal_ner.ipynb) - Multimodal NER
 
 #### Time Series
-- **forecasting-indepth.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/forecasting-indepth.ipynb) - Classical forecasting models
-- **forecasting-chronos.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/autogluon-assignment/blob/main/extra-credit/forecasting-chronos.ipynb) - Chronos forecasting
+- **forecasting-indepth.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/forecasting-indepth.ipynb) - Classical forecasting models
+- **forecasting-chronos.ipynb** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/extra-credit/forecasting-chronos.ipynb) - Chronos forecasting
 
 ## 🔧 Configuration Options
 
