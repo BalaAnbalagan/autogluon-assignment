@@ -81,12 +81,23 @@ After the notebook finishes, download these artifacts:
 
 Click the **folder icon** (📁) in the left sidebar, locate the files, and click the three dots (⋮) → **Download**.
 
+## 📺 Video Tutorials
+
+Watch the complete video tutorials on YouTube:
+
+- **Part 1: Kaggle Competitions**
+  - 🎥 [IEEE Fraud Detection](https://youtu.be/utB320U4Rno) - Binary classification for fraud detection
+  - 🎥 [California Housing](https://youtu.be/BwdDep3XRUw) - Regression for house price prediction
+
+- **Part 2: Demo Notebooks**
+  - 🎥 [Tabular Demos (All 3 notebooks)](https://youtu.be/WXv557L0ny4) - Quick start, multimodal, and presets comparison
+
 ## 📊 Notebook Details
 
 ### Part 1: Kaggle Competitions
 
 #### ieee-fraud-detection.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part1-kaggle/ieee-fraud-detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part1-kaggle/ieee-fraud-detection.ipynb) 🎥 [Watch Tutorial](https://youtu.be/utB320U4Rno)
 
 - **Task**: Binary classification
 - **Dataset**: IEEE-CIS Fraud Detection (from Kaggle)
@@ -95,7 +106,7 @@ Click the **folder icon** (📁) in the left sidebar, locate the files, and clic
 - **Features**: Transaction and identity data
 
 #### california-housing.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part1-kaggle/california-housing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part1-kaggle/california-housing.ipynb) 🎥 [Watch Tutorial](https://youtu.be/BwdDep3XRUw)
 
 - **Task**: Regression
 - **Dataset**: California Housing (from sklearn)
@@ -104,6 +115,8 @@ Click the **folder icon** (📁) in the left sidebar, locate the files, and clic
 - **Features**: Housing attributes (location, rooms, income, etc.)
 
 ### Part 2: Demo Notebooks
+
+🎥 [Watch Part 2 Tutorial](https://youtu.be/WXv557L0ny4) - Covers all three demo notebooks
 
 #### tabular-quick-start.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/autogluon-assignment/blob/master/part2-demos/tabular-quick-start.ipynb)
